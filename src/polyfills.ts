@@ -52,6 +52,8 @@
  *
  */
 
+import 'aframe';
+import 'src/assets/js/aframe-multisrc-component.js'
 /***************************************************************************************************
  * Zone JS is required by default for Angular itself.
  */
